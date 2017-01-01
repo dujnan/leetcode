@@ -1,2 +1,2 @@
 # leetcode
-Solutions of All 468 LeetCode Questions
+Solutions of LeetCode Questions
